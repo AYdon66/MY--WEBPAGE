@@ -138,7 +138,7 @@
         </div>
 
         <h2>About Me</h2>
-        <img src="my image.jpg" alt="Profile Image" class="profile-img" />
+        <img src="my image.JPG" alt="Profile Image" class="profile-img" />
         <p>
             Hi, welcome to my page! I’m a student at the Federal University of Technology, Akure,
             currently studying in the Department of Forestry and Wood Technology.
