@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>AY Page</title>
+    <title>AY PAGE</title>
     <style>
         :root {
             --bg-color: #f4f4f4;
@@ -273,3 +273,5 @@
 </body>
 
 </html>
+
+    
